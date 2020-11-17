@@ -1,0 +1,25 @@
+body
+    {background-color:  #ffffff;
+      margin: 50px  50px 50px 50px; 
+font-family: sans-serif}
+
+h1 {color:black;
+text-align: center;
+padding: 10px;}
+
+
+table,tr,td{padding: 20px 20px 20px 20px;}
+
+
+.menupont{font-family: Impact,sans-serif;
+font-size: 16px;
+text-decoration: none;
+padding: 8px 8px 8px 8px;
+background: #99ceff;}
+
+.menupont:hover{font-family: Impact,  sans-serif;
+font-size: 16px;
+text-decoration: none;
+padding: 8px 8px 8px 8px;
+background: #ff7733;
+color: white;}
